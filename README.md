@@ -51,7 +51,7 @@ Breakdown of top analyst jobs of 2023:
 - **Large Range of Salary:** The top 10 paying roles span from $184,000 to $650,000. This shows high salary potential in the field. 
 - **Diverse Employers:** Companies like AT&T, Mantys, and Motional all offer high salaries, showing a diverse set companies with interest in data analysis employement. 
 
-![Top Paying Roles](assets\SQLProject1_1.png)
+![Top Paying Roles](assets/SQLProject1_1.png)
 *Bar graph vizualizing the salary for the top 10 salaries. Made with Tableau.
 
 ### 2. Highest Paying Job Skills🔧
@@ -96,7 +96,7 @@ Some jobs require few skills like Hybrid/Remote Data Analyst, ERM Data Analyst, 
 - **Duplicate Skills** 
 Many skills are needed for almost any job in the top 8 including sql, python, and tableau.
 
-![Skills Needed for Job](assets\SQLProject1_2.png)
+![Skills Needed for Job](assets/SQLProject1_2.png)
 *Graph depicts skills needed for jobs in the top 8. Graph was made in Tableau. 
 
 ### 3. Top In-Demand Skills🔥
@@ -126,7 +126,7 @@ According to these findings, the top in demand skills for Data Analysts include 
 - **Range of Demand** 
 While these skills are all valuable and highly suaght after, the range is wide starting from 260 (Power BI) to 7291 (SQL). SQL, being the highest in demand, shows a need for database managment and creation over dashboard and graph creation provided by Power BI and Tableau. 
 
-![In-Demand Skills](assets\SQLProject1_3.png)
+![In-Demand Skills](assets/SQLProject1_3.png)
 *Graph depicts the top 5 skills as well as the demand count. Graph was made in Tableau 
 
 ### 4. Top Paying Skills🔧💰
@@ -165,7 +165,7 @@ seem to hold skills like Excel, SQL, and Power BI in high regard, there are stil
 - **Diversity of Skills** 
 Some skills require coding, some managment, others creative insight. No matter what is it, there is no shortage of new things to learn that are valuable within analytics. 
 
-![Top Paying Skills](assets\SQLProject1_4.png)
+![Top Paying Skills](assets/SQLProject1_4.png)
 *Bar Graph shows high paying skills as well as the outlier, SVN. Graph was made in Tableau. 
 
 ### 5. Optimal Skills to Learn🥇
@@ -227,7 +227,7 @@ R also breaks the top 5 with its demand count. It's pay also surpasses skills li
 - **Ordering So Pay is Primary**  
 If we change the query so that pay is the primary objective, we can see the list shift. Wanting to keep in demand jobs relevant, I made sure to include that the demand count had to be at least 10. After these changes, skills like Confluence, Snowflake, and Hadoop started to top the list, with less in demand but high pay. 
 
-![In-Demand Skills vs. Their Salary](assets\SQLProject1_5.png)
+![In-Demand Skills vs. Their Salary](assets/SQLProject1_5.png)
 *These two charts show optimal skills. The top is the demand while the bottom is the salary associated with the skills. This is based off of the first query, with demand coming as the primary ordering. Graphs were made in Tableau. 
 
 
